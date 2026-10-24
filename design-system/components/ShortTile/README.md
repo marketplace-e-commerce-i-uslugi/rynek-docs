@@ -1,0 +1,3 @@
+Kafel Shorts (9:16, `radius-lg`) stoi na półce poziomej w feedzie i na kanale: tytuł i liczba wyświetleń leżą na `scrim`, tekst jest biały. Tapnięcie otwiera pionowy odtwarzacz.
+
+Odtwarzacz ma szynę akcji po prawej (polub, pytanie, udostępnij), nazwę kanału z przyciskiem „Obserwuj” i jedyny przycisk `accent` „Kup teraz” z ceną u dołu. Konsument dostarcza film w 9:16 (do 60 s), napisy i powiązaną ofertę; bez oferty przycisk zakupowy się nie pokazuje.

@@ -1,0 +1,3 @@
+Chip filtruje feed lub zawęża wyniki. Aktywny chip w pasku kategorii jest odwrócony (`ink` na `surface`); chip zastosowanego filtru ma obrys `line-strong` i znak „×”; chip wybrany w formularzu (stan, rola) ma `brand-tint` i obrys `brand`.
+
+Konsument dostarcza krótką etykietę (1–2 słowa). Wysokość 44 px, odstęp między chipami `space-2`; pasek przewija się poziomo bez paska przewijania, pierwszy chip zawsze „Wszystko” lub „Dla Ciebie”.

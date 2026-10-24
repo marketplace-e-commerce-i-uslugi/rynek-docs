@@ -1,0 +1,10 @@
+Rynek — design system
+
+index.html — otwórz w przeglądarce (lista podglądów, przełącznik jasny/ciemny)
+tokens.json — tokeny (kolory jasny/ciemny, typografia, odstępy, promienie)
+tokens.css — te same tokeny jako zmienne CSS
+README.md, 01–04 — zasady, koncepcja, IA, user flow, źródła inspiracji
+components/ — bundle.css, README i podgląd każdego komponentu i ekranu
+podglad/ — samodzielne strony HTML podglądów
+
+Uwaga: font Manrope ładuje się z Google Fonts (wymaga internetu).

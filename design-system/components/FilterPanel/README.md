@@ -1,0 +1,3 @@
+Panel filtrów (web: kolumna 300 px po lewej wyników; mobile: arkusz dolny `radius-xl`) grupuje filtry pod nagłówkami `overline`: Cena, Lokalizacja z promieniem, Stan, Ocena sprzedawcy, Typ oferty, „Tylko z filmem”. Każdy zastosowany filtr pojawia się też jako chip nad wynikami.
+
+Konsument dostarcza liczniki wyników przy wartościach i łączną liczbę po zastosowaniu; przycisk u dołu zawsze mówi „Pokaż N wyników”. Przełącznik i checkboxy mają min. 44 px wysokości wiersza.

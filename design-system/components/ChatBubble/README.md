@@ -1,0 +1,3 @@
+Dymek własny ma `brand` z tekstem `on-brand`, dymek rozmówcy `surface-muted` z `ink`; róg przy nadawcy jest mniej zaokrąglony. Wątek zaczyna przypięta karta oferty (miniatura, tytuł, cena), więc kontekst nie ginie.
+
+Konsument dostarcza treść, godzinę i status doręczenia („Wysłano”, „Przeczytano”). Szybkie odpowiedzi to chipy `out` nad polem tekstowym: „Czy nadal aktualne?”, „Zaproponuj cenę”, „Czy możliwy odbiór osobisty?”. Wiadomości nigdy nie pokazują numeru telefonu bez zgody użytkownika.

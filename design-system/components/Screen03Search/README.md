@@ -1,0 +1,1 @@
+Ekran 3: wyniki. Konsument dostarcza zapytanie, liczbę wyników i listę zastosowanych filtrów. Mobile: filtry w arkuszu dolnym (`radius-xl`); web: stała kolumna po lewej. Każdy filtr da się zdjąć jednym tapem chipa.

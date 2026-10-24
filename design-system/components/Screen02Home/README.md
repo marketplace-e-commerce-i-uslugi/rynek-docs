@@ -1,0 +1,1 @@
+Ekran 2: Start. Konsument dostarcza ranking ofert (wideo > zdjęcie), listę kategorii dla chipów i półki Shorts. Na mobile jedna kolumna dużych kart; na web 3 kolumny (4 od 1280 px). Półka Shorts pojawia się co 6–8 kart.

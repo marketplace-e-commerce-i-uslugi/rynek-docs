@@ -1,0 +1,3 @@
+Kalendarz rezerwacji pokazuje miesiąc z tygodniem od poniedziałku. Dni wolne mają obrys `line-strong`, zajęte są przekreślone i w `ink-muted`, wybrany dzień jest wypełniony `brand`. Pod kalendarzem leżą sloty godzinowe w kapsułach (wybrany `brand`, zajęty przekreślony z linią przerywaną).
+
+Konsument dostarcza dostępność usługodawcy i czas trwania usługi; po wyborze terminu przycisk `accent` „Zarezerwuj termin” przechodzi do kroku adresu i płatności. Stan zajęty zawsze oznaczony przekreśleniem, nie samym kolorem.

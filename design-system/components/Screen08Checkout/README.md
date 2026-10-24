@@ -1,0 +1,1 @@
+Ekran 8: koszyk, płatność i rezerwacja. Konsument dostarcza pozycje, metody dostawy, dostępne płatności i zasady zaliczki. W checkoutcie nie ma dolnego paska ani bocznego menu; jedyna akcja `accent` to płatność.

@@ -1,0 +1,1 @@
+Ekran 4: karta oferty. Produkt: galeria z filmem, cena, CTA „Kup teraz” (accent), „Napisz”, „Zadzwoń”, sprzedawca, pytania. Usługa: ten sam szkielet, ale zamiast koszyka kalendarz rezerwacji (BookingCalendar). Web ma układ dwukolumnowy z listą „Następne”.

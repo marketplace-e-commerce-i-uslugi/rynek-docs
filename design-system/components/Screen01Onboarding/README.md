@@ -1,0 +1,1 @@
+Ekran 1: onboarding w dwóch krokach (rola, zainteresowania + lokalizacja). Na web ten sam wybór pojawia się jako modal nad feedem. Konsument dostarcza zapisaną rolę (może być wiele) i listę kategorii. Karty-opcje mają min. 56 px wysokości, a wybór jest oznaczony także radiem, nie tylko kolorem.

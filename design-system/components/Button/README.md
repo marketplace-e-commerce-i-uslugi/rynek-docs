@@ -1,0 +1,3 @@
+Przycisk ma cztery warianty: podstawowy (`brand`), zakupowy (`accent`, tylko „Kup teraz”, „Zarezerwuj”, „Zapłać”), wtórny (obrys `brand`) i cichy (`surface-muted`). Na ekranie występuje najwyżej jeden przycisk `accent`.
+
+Konsument dostarcza etykietę zaczynającą się od czasownika i ewentualną ikonę 20 px po lewej. Wysokość to `touch-target` (48 px); wariant `sm` (44 px) tylko na web. Przycisk pełnej szerokości (`block`) służy do głównej akcji w arkuszach i pasku dolnym. Nie umieszczaj dwóch przycisków pełnej szerokości obok siebie bez odstępu `space-2`.

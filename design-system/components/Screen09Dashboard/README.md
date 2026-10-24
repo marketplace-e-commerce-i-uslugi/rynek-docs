@@ -1,0 +1,1 @@
+Ekran 9: panel sprzedawcy. Konsument dostarcza metryki za wybrany okres, wykres, listę zamówień i ranking ofert. Na mobile kafle 2×2, wykres i zamówienia do realizacji; „+” w nagłówku dodaje ofertę. Zmiany procentowe zawsze ze strzałką i znakiem.

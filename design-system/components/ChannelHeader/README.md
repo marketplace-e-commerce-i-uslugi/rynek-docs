@@ -1,0 +1,3 @@
+Nagłówek kanału sprzedawcy odwzorowuje kanał YouTube: baner, awatar nachodzący na baner, nazwa ze znakiem weryfikacji, wiersz statystyk (obserwujący, liczba ofert, ocena) oraz „Obserwuj” z dzwonkiem powiadomień. Zakładki: Oferty, Filmy, Opinie, O nas.
+
+Konsument dostarcza baner (min. 1920×320), awatar kwadratowy, nazwę, handle i opis. Po obserwowaniu przycisk zmienia się w wariant `secondary` „Obserwujesz”. Przycisk „Napisz” i „Zadzwoń” są dostępne w zakładce „O nas” i w menu ⋮.

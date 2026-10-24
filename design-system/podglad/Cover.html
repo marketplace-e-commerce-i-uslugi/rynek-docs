@@ -1,0 +1,21 @@
+<!doctype html><html lang="pl" data-theme="light"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Cover</title><link rel="stylesheet" href="../tokens.css"><link rel="stylesheet" href="../components/bundle.css"></head><body><!-- @dsCard height=288 -->
+<div style="position:relative;width:960px;height:288px;background:var(--surface);overflow:hidden">
+<!-- derivation
+blocks: brand slab 224x192 (space-6 x7 / x6), ink 248x96, accent 120x120, media-2 120x184 (identity: pine + honey + ink)
+arrangement: slab bleeding off the top, ink band bleeding off the right, accent and tint tiles stacked beneath, all from x=480
+pattern: discs (avatars/channels) at 32px pitch (space-6) in brand-tint on the slab, three pills (radius-pill) on the ink band: soft radii => discs and pills
+steps/radii: space-6 = 32 pitch, radius-xl = 24 on blocks, radius-pill on pills -->
+<svg width="960" height="288" viewBox="0 0 960 288" style="position:absolute;left:0;top:0">
+<style>.b{fill:var(--brand)}.i{fill:var(--ink)}.a{fill:var(--accent)}.t{fill:var(--media-2)}.d{fill:var(--brand-tint)}.p{fill:var(--surface)}.xl{rx:24px}</style>
+<rect class="b xl" x="480" y="-24" width="224" height="216"/>
+<circle class="d" cx="512" cy="24" r="10"/><circle class="d" cx="576" cy="24" r="10"/><circle class="d" cx="640" cy="24" r="10"/><circle class="d" cx="544" cy="56" r="10"/><circle class="d" cx="608" cy="56" r="10"/><circle class="d" cx="672" cy="56" r="10"/><circle class="d" cx="512" cy="88" r="10"/><circle class="d" cx="576" cy="88" r="10"/><circle class="d" cx="640" cy="88" r="10"/><circle class="d" cx="544" cy="120" r="10"/><circle class="d" cx="608" cy="120" r="10"/><circle class="d" cx="672" cy="120" r="10"/><circle class="d" cx="512" cy="152" r="10"/><circle class="d" cx="576" cy="152" r="10"/><circle class="d" cx="640" cy="152" r="10"/>
+<rect class="i xl" x="712" y="-24" width="272" height="120"/>
+<rect class="p" x="740" y="40" width="64" height="24" rx="12"/><rect class="p" x="812" y="40" width="40" height="24" rx="12"/><rect class="p" x="860" y="40" width="88" height="24" rx="12"/>
+<rect class="a xl" x="712" y="104" width="120" height="120"/>
+<rect class="t xl" x="840" y="104" width="144" height="184"/>
+<rect class="i xl" x="480" y="200" width="224" height="88"/>
+</svg>
+<div style="position:absolute;left:48px;bottom:36px;width:420px">
+<div style="font:800 120px/0.95 var(--font-sans);letter-spacing:-.03em;color:var(--ink)">Rynek</div>
+<div style="font:500 14px/20px var(--font-sans);color:var(--ink-muted);margin-top:8px">Zobacz, zanim kupisz.</div></div></div>
+<button onclick="var h=document.documentElement;h.dataset.theme=h.dataset.theme==='dark'?'light':'dark'" style="position:fixed;right:12px;bottom:12px;z-index:99;min-height:44px;padding:0 16px;border-radius:999px;border:1.5px solid var(--line-strong);background:var(--surface-raised);color:var(--ink);font:700 14px var(--font-sans);cursor:pointer">Jasny / ciemny</button></body></html>

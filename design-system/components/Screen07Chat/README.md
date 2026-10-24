@@ -1,0 +1,1 @@
+Ekran 7: wiadomości. Lista rozmów (filtry Wszystkie / Kupuję / Sprzedaję) i wątek z przypiętą ofertą. Konsument dostarcza wiadomości, statusy doręczenia i kartę oferty. Na web dwa panele obok siebie.

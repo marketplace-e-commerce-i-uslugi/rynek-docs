@@ -1,0 +1,3 @@
+Kafel statystyki ma etykietę (`caption`), wartość (`price-lg`) i zmianę. Zmiana zawsze zawiera strzałkę i znak (▲ +12%, ▼ −3%) oraz okres porównania; kolor `positive` lub `danger` jest dodatkiem, nie jedynym nośnikiem znaczenia.
+
+Konsument dostarcza wartość sformatowaną po polsku i okres. Słupki wykresu w `brand` (bieżący okres) i `brand-tint` (poprzedni); nie używaj więcej niż dwóch serii na kafelku.

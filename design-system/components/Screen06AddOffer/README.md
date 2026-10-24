@@ -1,0 +1,1 @@
+Ekran 6: kreator oferty (media, szczegóły, publikacja). Konsument zapisuje szkic po każdym kroku. Przełącznik Produkt/Usługa zmienia pola (usługa: cennik, obszar działania, godziny dostępności). Napisy do wideo są wymagane przed publikacją.

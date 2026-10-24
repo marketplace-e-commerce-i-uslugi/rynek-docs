@@ -1,0 +1,1 @@
+Ekran 5: kanał sprzedawcy. Wzorem YouTube; zamiast subskrypcji „Obserwuj”. Konsument dostarcza baner, awatar, opis i oferty/filmy sprzedawcy. Zakładka Opinie pokazuje rozkład ocen i opinie zweryfikowanych zakupów.

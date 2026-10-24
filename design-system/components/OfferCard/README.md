@@ -1,0 +1,3 @@
+Karta oferty to miniatura 16:9 (`radius-lg`) i pod nią awatar sprzedawcy, tytuł w dwóch liniach (`body-strong`), cena (`price`) i metadane: sprzedawca ze znakiem weryfikacji, ocena z liczbą opinii, lokalizacja. Znacznik w lewym górnym rogu to stan (`Nowy`, `Używany`) lub `Usługa`; w prawym dolnym czas trwania filmu.
+
+Konsument dostarcza zdjęcie lub klatkę wideo, tytuł, cenę sformatowaną po polsku, sprzedawcę, ocenę i lokalizację. Na web po najechaniu miniatura odtwarza wyciszony podgląd z paskiem postępu (`accent`). Karta jest płaska, bez ramki i cienia. Wariant `compact` (siatka na kanale sprzedawcy i w „Następne”) pomija awatar.

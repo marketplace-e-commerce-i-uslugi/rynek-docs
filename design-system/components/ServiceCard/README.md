@@ -1,0 +1,3 @@
+Karta usługi to OfferCard z dwoma zmianami: cena ma przedrostek „od” i jednostkę (`zł/m²`, `zł/godz.`), a pod metadanymi pojawia się linia „Najbliższy termin” z ikoną kalendarza. Znacznik w rogu zawsze brzmi `Usługa`.
+
+Konsument dostarcza najbliższy wolny termin z kalendarza usługodawcy; gdy terminów brak, wiersz brzmi „Zapytaj o termin”. Akcja główna na karcie szczegółów to „Zarezerwuj termin” (`accent`).

@@ -1,0 +1,3 @@
+Dolny pasek mobilny ma pięć pozycji w stałej kolejności: Start, Shorts, Obserwowane, Wiadomości, Profil (wzór YouTube). Aktywna pozycja ma ikonę i podpis w `brand` oraz kapsułę `brand-tint` za ikoną.
+
+Konsument dostarcza aktywną pozycję i licznik nieprzeczytanych dla „Wiadomości” (kropka z liczbą). Podpis zawsze widoczny, min. 12 px; pasek chowa się przy przewijaniu w dół w feedzie, ale nie w odtwarzaczu Shorts i w czacie.
